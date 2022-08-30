@@ -1,5 +1,5 @@
 ### Hi there 👋
-[derzunov.su](https://derzunov.github.io/derzunov.su/)
+
 
 <!--
 **derzunov/derzunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
